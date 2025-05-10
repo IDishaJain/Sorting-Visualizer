@@ -25,7 +25,7 @@ const RenderScreen = async () => {
 };
 
 const RenderList = async () => {
-  let sizeValue = Number(document.querySelector(".size-menu").value);
+  let sizeValue = Number(document.querySelector(".size-menu").value) || 10;
   await clearScreen();
 
   let list = await randomList(sizeValue);
