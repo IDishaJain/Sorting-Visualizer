@@ -24,4 +24,4 @@ To run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/IDishaJain/Sorting-Visualizer.git
