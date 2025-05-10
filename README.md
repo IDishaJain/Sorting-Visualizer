@@ -1,8 +1,27 @@
-# Sorting Visualizer  
+# Sorting Visualizer
 
-A simple **Sorting Visualizer** built with **HTML, CSS, and JavaScript**. It provides real-time animations to help users understand sorting algorithms step by step.  
+A dynamic web-based Sorting Visualizer built using **HTML**, **CSS**, and **JavaScript**. This project visually demonstrates how different sorting algorithms work by animating the process step-by-step.
 
-## 🚀 Features  
-- 🎨 **Visual representation** of sorting algorithms  
-- 📊 **Adjustable array size & speed**  
-- 🔄 **Supports** Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort  
+## 🧠 Features
+
+- 🎞️ Real-time animation of sorting steps
+- 🔢 Adjustable array size
+- ⏱️ Speed control for visualization
+- 🎛️ User-friendly interface
+- 📊 Multiple sorting algorithms implemented
+
+## 🧪 Algorithms Implemented
+
+- 🔹 Bubble Sort
+- 🔹 Selection Sort
+- 🔹 Insertion Sort
+- 🔹 Merge Sort
+- 🔹 Quick Sort
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/sorting-visualizer.git
